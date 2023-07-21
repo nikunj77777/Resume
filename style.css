@@ -3,6 +3,9 @@ body {
       line-height: 1.6;
       margin: 0;
       padding: 0;
+      
+      
+
     }
 
     .resume {
@@ -11,10 +14,12 @@ body {
       padding: 20px;
       border: 1px solid #ccc;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      background-color: aqua;
     }
 
     h1 {
       text-align: center;
+      color:blue;
     }
 
     .section {
@@ -23,6 +28,7 @@ body {
 
     .section h2 {
       margin-bottom: 10px;
+      color: blue;
     }
 
     .section ul {
